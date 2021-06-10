@@ -9,3 +9,5 @@
 8. Moving files between directory
 9. Script 8 deletes file betty
 10. Script 9 deletes directory
+11. SCript goes back to previous directory
+
