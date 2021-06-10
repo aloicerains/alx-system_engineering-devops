@@ -10,4 +10,5 @@
 9. Script 8 deletes file betty
 10. Script 9 deletes directory
 11. SCript goes back to previous directory
-
+12. Script 12 prints type of file
+ 
