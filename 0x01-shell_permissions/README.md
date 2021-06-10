@@ -8,4 +8,5 @@
 7. script adds execute permission to everyone
 8. script only gives others all permissions
 9. changing file mode
+10. setting mode of one file to the other file
  
