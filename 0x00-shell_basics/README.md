@@ -7,4 +7,4 @@
 6. Fifth script prints all files in current directory
 7. Creates a directory holberton
 8. Moving files between directory
-
+9. Script 8 deletes file betty
