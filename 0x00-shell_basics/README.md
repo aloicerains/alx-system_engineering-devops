@@ -9,7 +9,8 @@
 8. Moving files between directory
 9. Script 8 deletes file betty
 10. Script 9 deletes directory
-11. SCript goes back to previous directory
-12. Script 12 prints type of file
-13. Creating symbolic link
-14. Copying html files to parent directory 
+12. Display all files in both parent and current working directory
+13. SCript goes back to previous directory
+14. Script 12 prints type of file
+15. Creating symbolic link
+16. Copying html files to parent directory 
