@@ -11,4 +11,5 @@
 10. Script 9 deletes directory
 11. SCript goes back to previous directory
 12. Script 12 prints type of file
+13. Creating symbolic link
  
