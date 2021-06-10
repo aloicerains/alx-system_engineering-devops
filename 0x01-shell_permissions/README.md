@@ -6,4 +6,4 @@
 5. Script add execute permission to file owner
 6. Script adds multiple permissions
 7. script adds execute permission to everyone
-
+8. script only gives others all permissions 
