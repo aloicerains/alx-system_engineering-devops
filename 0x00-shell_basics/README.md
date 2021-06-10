@@ -8,3 +8,4 @@
 7. Creates a directory holberton
 8. Moving files between directory
 9. Script 8 deletes file betty
+10. Script 9 deletes directory
