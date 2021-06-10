@@ -12,4 +12,4 @@
 11. SCript goes back to previous directory
 12. Script 12 prints type of file
 13. Creating symbolic link
- 
+14. Copying html files to parent directory 
