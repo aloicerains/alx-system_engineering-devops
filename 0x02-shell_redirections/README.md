@@ -12,4 +12,5 @@ The scripts contain a set of input and ouput standard procedures as given below:
 10. Deletes regular files with a .js in current and subdirectories
 11. Counts the directories
 12. Displays the 10 last modified files
+13. Displays and sorts words in a single line
 

@@ -1,0 +1,2 @@
+#!/bin/bash
+awk -v RS='[[:space:]]+' '{if (!seen[$0]++){printf "%s%s", sep, $0; sep=" "}}' <<<"one one two two three"
