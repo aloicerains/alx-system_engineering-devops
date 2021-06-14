@@ -7,3 +7,4 @@ The scripts contain a set of input and ouput standard procedures as given below:
 5. Display the 10 last lines of /etc/passwd file
 6. Display the first 10 lines of the file
 7. Use head and tail to print the third line
+8. Writes the output of ls -al in a new file
