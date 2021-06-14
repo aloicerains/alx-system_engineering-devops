@@ -8,3 +8,4 @@ The scripts contain a set of input and ouput standard procedures as given below:
 6. Display the first 10 lines of the file
 7. Use head and tail to print the third line
 8. Writes the output of ls -al in a new file
+9. Duplicates the last line in same file using tail command
