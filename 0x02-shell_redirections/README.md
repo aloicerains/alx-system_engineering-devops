@@ -14,4 +14,5 @@ The scripts contain a set of input and ouput standard procedures as given below:
 12. Displays the 10 last modified files
 13. Displays and sorts words in a single line
 14. Find a word from files
+15. Count the number of patterns in a file
 
