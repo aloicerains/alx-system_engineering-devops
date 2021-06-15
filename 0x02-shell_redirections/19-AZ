@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "replace Ac to Ze" | tr 'Ac' 'Ze' 
+echo "repla Ac to Ze" | tr "Ac" "Ze"
