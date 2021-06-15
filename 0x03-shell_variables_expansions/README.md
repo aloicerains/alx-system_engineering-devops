@@ -6,4 +6,5 @@ Shell Variables Expansions
 4. list environment variables using env
 5. list all local environment, and function variables
 6. Create local variable BETTY
+7. Create global variable HOLBERTON
 
