@@ -5,4 +5,5 @@ Shell Variables Expansions
 3. Displays number of directories in current path
 4. list environment variables using env
 5. list all local environment, and function variables
+6. Create local variable BETTY
 
