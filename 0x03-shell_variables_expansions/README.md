@@ -3,4 +3,5 @@ Shell Variables Expansions
 1. Script greets user using var USER
 2. Script creates path to last directory
 3. Displays number of directories in current path
+4. list environment variables using env
 
