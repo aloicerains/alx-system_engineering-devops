@@ -11,4 +11,5 @@ Shell Variables Expansions
 9. Divided two variables
 10. BREAth to power of LOVE variable
 11. Converts binary to decimal
+12. Convert to two decimal places
 
