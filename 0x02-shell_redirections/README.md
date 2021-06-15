@@ -18,4 +18,5 @@ The scripts contain a set of input and ouput standard procedures as given below:
 16. Next lines after match
 17. Display lines that do not contain bin in passwd file
 18. Display lines in file beginning with letters only
+19. Replace A and c with Z and e
 
