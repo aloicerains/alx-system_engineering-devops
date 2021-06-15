@@ -7,4 +7,5 @@ Shell Variables Expansions
 5. list all local environment, and function variables
 6. Create local variable BETTY
 7. Create global variable HOLBERTON
+8. Add 128 to a variable
 
