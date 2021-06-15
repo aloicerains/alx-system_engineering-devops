@@ -4,4 +4,5 @@ Shell Variables Expansions
 2. Script creates path to last directory
 3. Displays number of directories in current path
 4. list environment variables using env
+5. list all local environment, and function variables
 
