@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "removes smallseec and kapitalC" | sed 's/[c C]//g'
+echo "removes smallseec and kapitalC" | tr "cC" " "
