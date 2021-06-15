@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "replace A and c to z and e" | sed -e 's/A/Z/g' -e 's/c/e/g'
+echo "replace Ac to Ze" | tr 'Ac' 'Ze' 
