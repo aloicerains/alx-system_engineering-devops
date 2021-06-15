@@ -20,4 +20,5 @@ The scripts contain a set of input and ouput standard procedures as given below:
 18. Display lines in file beginning with letters only
 19. Replace A and c with Z and e
 20. Removes letters c and C
+21. Reverse input 
 
