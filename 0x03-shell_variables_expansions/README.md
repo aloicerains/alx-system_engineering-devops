@@ -12,4 +12,5 @@ Shell Variables Expansions
 10. BREAth to power of LOVE variable
 11. Converts binary to decimal
 12. Convert to two decimal places
+13. Prints all possible combinations of two letters except oo
 
