@@ -21,4 +21,5 @@ The scripts contain a set of input and ouput standard procedures as given below:
 19. Replace A and c with Z and e
 20. Removes letters c and C
 21. Reverse input 
+22. Display users and home directories
 
