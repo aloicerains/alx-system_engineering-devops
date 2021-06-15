@@ -17,20 +17,5 @@ The scripts contain a set of input and ouput standard procedures as given below:
 15. Count the number of patterns in a file
 16. Next lines after match
 17. Display lines that do not contain bin in passwd file
-17. Display lines that do not contain bin in passwd file
-17. Display lines that do not contain bin in passwd file
-17. Display lines that do not contain bin in passwd file
-17. Display lines that do not contain bin in passwd file
-17. Display lines that do not contain bin in passwd file
-17. Display lines that do not contain bin in passwd file
-17. Display lines that do not contain bin in passwd file
-17. Display lines that do not contain bin in passwd file
-17. Display lines that do not contain bin in passwd file
-17. Display lines that do not contain bin in passwd file
-17. Display lines that do not contain bin in passwd file
-17. Display lines that do not contain bin in passwd file
-17. Display lines that do not contain bin in passwd file
-17. Display lines that do not contain bin in passwd file
-17. Display lines that do not contain bin in passwd file
-17. Display lines that do not contain bin in passwd file
+18. Display lines in file beginning with letters only
 
