@@ -10,4 +10,5 @@ Shell Variables Expansions
 8. Add 128 to a variable
 9. Divided two variables
 10. BREAth to power of LOVE variable
+11. Converts binary to decimal
 
