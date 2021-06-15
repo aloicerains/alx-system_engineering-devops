@@ -9,4 +9,5 @@ Shell Variables Expansions
 7. Create global variable HOLBERTON
 8. Add 128 to a variable
 9. Divided two variables
+10. BREAth to power of LOVE variable
 
