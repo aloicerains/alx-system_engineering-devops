@@ -8,4 +8,5 @@ Shell Variables Expansions
 6. Create local variable BETTY
 7. Create global variable HOLBERTON
 8. Add 128 to a variable
+9. Divided two variables
 
