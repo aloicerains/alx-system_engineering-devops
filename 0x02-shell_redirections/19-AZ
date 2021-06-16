@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "repla Ac to Ze" | tr "Ac" "Ze"
+tr "A" "Z" | tr "c" "e"
