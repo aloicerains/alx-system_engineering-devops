@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "removes smallseec and kapitalC" | tr "cC" " "
+tr -d 'cC'
