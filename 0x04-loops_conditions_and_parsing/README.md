@@ -20,8 +20,14 @@ In addition, concepts such as:
 `Shellcheck` is used to test the bash scripts.    
 
 #### Tasks    
-==========      
-- [ ] **Task0: Creating a SSH RSA key pair**    
+==========    
+  
+- [x] **Task0: Creating a SSH RSA key pair**    
 The RSA key pair is created and the public key is provided in `0-RSA_public_key.pub`    
-The key is also filled in he intranet profile.    
+The key is also filled in he intranet profile.     
+
+- [ ] **Task1: For Best School loop**   
+A bash script that displays `Best School 10 times`   
+Only `for` loop is used.   
+
 
