@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+#Script to read cotents of the /etc/passwd
+IFS=":"
+cat </etc/passwd |
+while read -r LOGIN PASSWD USER_ID G_ID USERNAME HOME SHELL;
+do
+	echo "The user $LOGIN is part of the $G_ID gang, lives in $HOME and rides $SHELL." \
+        "$USER_ID's place is protected by the passcode $PASSWD" \
+        "more info about the user here: $USERNAME"
+done
