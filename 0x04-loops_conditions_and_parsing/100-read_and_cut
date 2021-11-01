@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+#Script to read cotents of the /etc/passwd
+exec 5</etc/passwd
+while read -u 5 -r text;
+do
+	echo "$text" | cut -d ':' -f 1,3,6
+done
