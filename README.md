@@ -1,7 +1,9 @@
-#The 0x00-shell basics
-1. The repo contains various program scripts:
-2. File permissions
-3. File redirections scripts
-4. Shell variable expansion scripts
-5. Loops conditions and parsing
-6. 0x05-processes_and_signals
+### The 0x00-shell basics   
+==========================     
+The repo contains various program scripts:   
+1. File permissions
+2. File redirections scripts
+3. Shell variable expansion scripts
+4. Loops conditions and parsing
+5. 0x05-processes_and_signals   
+6. 0x06-regular_expressions    
