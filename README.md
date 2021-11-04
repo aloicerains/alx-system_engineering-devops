@@ -8,4 +8,4 @@ The repo contains various program scripts:
 5. 0x05-processes_and_signals   
 6. 0x06-regular_expressions   
 7. 0x07-networking_basics    
- 
+8. 0x08-networking_basics_2    
