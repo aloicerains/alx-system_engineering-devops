@@ -15,6 +15,6 @@ The learning objectives for the project include:
 #### Tasks    
 
 - [ ] Changing home IP     
-- [ ] Shwoing attached IPS: The script displays the all active IPv4 IPs on the machine it's executed     
+- [ ] Showing attached IPS: The script displays the all active IPv4 IPs on the machine it's executed     
 - [ ] Bash script listening on local host on the port 98     
 
