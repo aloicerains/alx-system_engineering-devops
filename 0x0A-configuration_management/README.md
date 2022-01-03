@@ -11,5 +11,7 @@ The following resources are used in the project:
 
 #### Tasks   
 ==========      
-*  Task 0: Creting a file in `/tmp` using Puppet     
+* Task 0: Creating a file in `/tmp` using Puppet     
+* Task 1: Installing package `puppet-lint (2.5.0)`   
+* Task 2: Manifest that kills a process named `killmenow`   
  
