@@ -16,3 +16,6 @@ The following resources are crucial in understanding the basic concepts of SSH:
 The following tasks are included:     
 * Task 0: Using a private key located at `~/.ssh/school` to connect to the server with the user `ubuntu`     
 * Task 1: Creating an SSH key Pair
+* Task 2: Client configuration file to use private key `~/.ssh/school`   
+* Task 3: Adding SSH public key to list authorized_keys    
+* Task 4: Attempting to perform client configuraton using `puppet`     
