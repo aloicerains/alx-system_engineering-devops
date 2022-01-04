@@ -6,10 +6,10 @@ include stdlib
 file_line { 'keylogin':
   ensure => 'present',
   line   => 'IdentityFile ~/.ssh/school',
-  path   => '~/.ssh/config',
+  path   => '/etc/ssh/ssh_config',
 }
 file_line { 'pwd':
   ensure => 'present',
   line   => 'PasswordAuthentication no',
-  path   => '~/.ssh/config',
+  path   => '/etc/ssh/ssh_config',
 }
