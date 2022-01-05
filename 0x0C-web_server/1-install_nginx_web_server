@@ -2,8 +2,6 @@
 # installing nginx web server
 apt update -y
 apt install nginx -y
-touch index.html
-echo "Hello World" > index.html
-chmod 0644 index.html
-mv index.html /var/www/html
+touch /var/www/html/index.html
+echo "Hello World" > /var/www/html/index.html
 service nginx restart
