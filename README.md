@@ -1,7 +1,7 @@
 ### System Engineering Devops   
 ==========================     
-The repo contains various program scripts:   
-0. Shell basics
+The repo contains various projects as follows:    
+0. Shell basics     
 1. File permissions
 2. File redirections scripts
 3. Shell variable expansion scripts
