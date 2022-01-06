@@ -8,7 +8,6 @@ redrect="\tlocation /redirect_me {\n\t\treturn 301 https:\/\/www.example.com\/ne
 sed -r -i "/^\s+server_name .+;/a\ $redrect" /etc/nginx/sites-available/default
 touch /var/www/html/error.html
 echo "Ceci n'est pas une page" > /var/www/html/error.html
-err = "\n\terror_page 404 \/error.html;\n"
-sed -r -i "/^\s+server_name .+;/a\ $err" /etc/nginx/sites-available/default
+err="\n\terror_page 404 \/error.html;\n"
 sed -r -i "/^\s+server_name .+;/a\ $err" /etc/nginx/sites-enabled/default
 service nginx restart
