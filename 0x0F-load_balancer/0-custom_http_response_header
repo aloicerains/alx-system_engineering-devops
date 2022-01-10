@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/usr/bin/env bash
 # Configures nginx with HTTP responses containing custom headers
 apt update -y
 apt install -y nginx
