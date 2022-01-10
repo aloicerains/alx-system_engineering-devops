@@ -3,7 +3,7 @@
 apt-get update
 apt-get install --no-install-recommends software-properties-common -y
 add-apt-repository ppa:vbernat/haproxy-2.5 -y
-apt-get install haproxy=2.5.\* -y
+apt-get install -y haproxy=2.5.\*
 enab="ENABLED=1"
 echo -e "\n$enab" >> /etc/default/haproxy
 config="frontend http
