@@ -1,7 +1,7 @@
 ### System Engineering Devops   
 ==========================     
 The repo contains various projects as follows:    
-0. Shell basics     
+* Shell basics     
 1. File permissions
 2. File redirections scripts
 3. Shell variable expansion scripts
@@ -13,4 +13,7 @@ The repo contains various projects as follows:
 9. 0x09-web_infrastructure_design    
 10. 0x0A-configuration_management    
 11. 0x0B-ssh    
-12. 0x0D-web_stack_debugging_0  
+12. 0x0D-web_stack_debugging_0 
+13. 0x0C-web_server    
+14. 0x0F-load_balancer    
+15. 0x0E-web_stack_debugging_1    
