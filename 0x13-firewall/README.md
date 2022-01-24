@@ -10,5 +10,7 @@ Introduction to firewalls.  The project is aimed at configuring uncomplicated fi
 
 #### Tasks     
 ==========     
-* [ ] **Task 0**: Configuring ufw to block all incoming traffic except ports`22, 443, 80`    
-* [ ]  
+* [x] **Task 0**: Configuring ufw to block all incoming traffic except ports`22, 443, 80`    
+* [ ] **Task 1**: Port forwarding.      
+Configure `web-01` so its firewall redicts port `8080/TCP` to port `80/TCP`   
+
