@@ -18,4 +18,7 @@ The repo contains various projects as follows:
 14. 0x0F-load_balancer    
 15. 0x0E-web_stack_debugging_1  
 16. 0x10-https_ssl    
-17. 0x11-what_happens_when_your_type_google_com_in_your_browser_and_press_enter  
+17. 0x11-what_happens_when_your_type_google_com_in_your_browser_and_press_enter
+18. 0x13-firewall  
+19. 0x12-web_stack_debugging_2    
+ 
