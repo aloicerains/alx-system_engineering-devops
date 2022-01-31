@@ -33,3 +33,13 @@ The Python script using REST API gathering data for the employee ID
 The script must use `urllib` or `requests` module    
 The script must accept an integer as a parameter, which is employee ID    
 
+* **Task 1: Export data to CSV**    
+Records the tasks owned by the spcific employee given with an ID   
+
+* **Task 2: Export data to JSON**   
+Records all the ddata owned by the employee to a json file    
+
+* **Task 3: Dictionary list of dictionaries**   
+Records all the employee data in a json file    
+
+
