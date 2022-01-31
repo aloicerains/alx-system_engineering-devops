@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Export data to CSV"""
+"""Export data to JSON for all employees"""
 
 if __name__ == "__main__":
     import requests
