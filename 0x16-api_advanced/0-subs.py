@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+"""Subs Module"""
+
 import requests
 import json
 import sys
