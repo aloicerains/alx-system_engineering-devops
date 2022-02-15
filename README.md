@@ -21,4 +21,6 @@ The repo contains various projects as follows:
 17. 0x11-what_happens_when_your_type_google_com_in_your_browser_and_press_enter
 18. 0x13-firewall  
 19. 0x12-web_stack_debugging_2    
- 
+20. 0x14-mysql     
+21. 0x15-api    
+22. 0x16-api_advanced     
