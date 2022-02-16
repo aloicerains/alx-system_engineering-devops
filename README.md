@@ -23,4 +23,6 @@ The repo contains various projects as follows:
 19. 0x12-web_stack_debugging_2    
 20. 0x14-mysql     
 21. 0x15-api    
-22. 0x16-api_advanced     
+22. 0x16-api_advanced   
+23. 0x18-webstack_monitoring    
+24. 0x17-web_stack_debugging_3     
