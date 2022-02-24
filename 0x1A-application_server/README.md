@@ -13,4 +13,4 @@ The project will introduce `Gunicorn` to be used in the production environment i
 * [Location block matching](https://www.digitalocean.com/community/tutorials/understanding-nginx-server-and-location-block-selection-algorithms#matching-location-blocks)   
 * [Understanding nginx location blocks and rewrite rules](http://blog.pixelastic.com/2013/09/27/understanding-nginx-location-blocks-rewrite-rules/)   
 * [tmux concepts](https://tmuxguide.readthedocs.io/en/latest/tmux/tmux.html), [and tmux man](https://man7.org/linux/man-pages/man1/tmux.1.html), and [cheat sheet](https://tmuxcheatsheet.com/)   
-
+* [nginx proxy_pass](http://nginx.org/en/docs/http/ngx_http_proxy_module.html#proxy_pass)
